@@ -1,0 +1,144 @@
+12F90U: 12FB90 gửi 191
+12FB30: 12FB30 gửi 191
+12MP30X: 12MP30X gửi 109
+12NBIOT: 12NBIOT gửi 191
+12ST60N: 12ST60N gửi 191
+12ST90N: 12ST90N gửi 191
+12TRE60: 12TRE60 gửi 191
+12UMAX4G: 12UMAX4G gửi 191
+12UMAX50N: 12UMAX50N gửi 191
+12V120C: 12V120C gửi 191
+12V120N: 12V120N gửi 191
+12V120Z: 12V120Z gửi 191
+12V200C: 12V200C gửi 191
+12V50C: 12V50C gửi 191
+12V70C: 12V70C gửi 191
+12V90C: 12V90C gửi 191
+15MI5D: 15MI5D gửi 191
+180N: 180N gửi 191
+1N: 1N gửi 191
+30N: 30N gửi 191
+360N: 360N gửi 191
+3MI5D: 3MI5D gửi 191
+3N: 3N gửi 191
+3ST60N: 3ST60N gửi 191
+3ST90N: 3ST90N gửi 191
+3TRE60: 3TRE60 gửi 191
+3UMAX4G: 3UMAX4G gửi 191
+3UMAX50N: 3UMAX50N gửi 191
+3V120: 3V120 gửi 191
+3V120C: 3V120C gửi 191
+3V120N: 3V120N gửi 191
+3V120Z: 3V120Z gửi 191
+3V150C: 3V120Z gửi 191
+3V50C: 3V50C gửi 191
+3V70C: 3V70C gửi 191
+3V90C: 3V70C gửi 191
+45GB30N_4G: 45GB30N_4G gửi 191
+6MP30X: 6MP30X gửi 191
+6NBIOT: 6NBIOT gửi 191
+6ST60N: 6ST60N gửi 191
+6ST90N: 6ST90N gửi 191
+6ST120: 6ST120 gửi 191
+6TRE60: 6TRE60 gửi 191
+6UMAX4G: 6UMAX4G gửi 191
+6UMAX4GN: 6UMAX4GN gửi 191
+6UMAX50: 6UMAX50 gửi 191
+6UMAX50N: 6UMAX50N gửi 191
+6V120: 6V120 gửi 191
+6V120C: 6V120C gửi 191
+6V120N: 6V120N gửi 191
+6V120Z: 6V120Z gửi 191
+6V150C: 6V150C gửi 191
+6V200C: 6V200C gửi 191
+6V50C: 6V50C gửi 191
+6V70C: 6V70C gửi 191
+6V90C: 6V90C gửi 191
+7MI5D: 7MI5D gửi 191
+7N: 7N gửi 191
+90N: 90N gửi 191
+AGG50: AGG50 gửi 109
+AGG90: AGG90 gửi 109
+AN: KEENG gửi 170
+ASEAN10: ASEAN10 gửi 191.
+ASEAN5: ASEAN5 gửi 191.
+DK100: DK100K gửi 109
+DK1N: DK1N gửi 109
+DK50_60: DK50K_60 gửi 109
+DK5B: DK5B gửi 109 (100đ/SMS)
+DK800: DK800 gửi 109
+DR1: DR1 gửi 191
+DR15: DR15 gửi 191, hoặc bấm gọi *098#
+DR3: DR3 gửi 191
+DR50: DR15 gửi 191
+DR7: DR7 gửi 191
+DS7: DS7 gửi 191
+DT10: DT10 gửi 109 hoặc bấm *098*263#
+DT50: DT50 gửi 109.
+ECOD10: E10 gửi 191 hoặc bấm gọi *098*232#
+ECOD20: E20 gửi 191 hoặc bấm gọi *098*2030#
+FB7D: FB7 gửi 191 hoặc bấm gọi 098*370#
+FT3S: Bấm Đăng ký hoặc soạn tin FT3S gửi 109 hoặc bấm *098*32#
+FT5: Bấm Đăng ký hoặc soạn FT5 gửi 109
+G3: Bấm đăng ký hoặc soạn G3 gửi 191 hoặc bấm gọi *098*9000#
+H5: H5 gửi 191
+HQ5: bấm Đăng ký, soạn HQ5 gửi 191, hoặc bấm gọi *098#
+HQ8: bấm Đăng ký, soạn HQ8 gửi 191, hoặc bấm gọi *098#
+KM100: KM100 gửi 191 (100đ/SMS)
+KM55: KM55 gửi 109
+KMSV: KMSV gửi 109
+MI10D: Bấm Đăng ký, soạn MI10D gửi 191, bấm gọi *098#
+MI5D: Bấm đăng ký hoặc soạn MI5D gửi 191 hoặc bấm gọi *098*506#
+MI7D: Nhấn nút Đăng ký hoặc soạn MI7D gửi 191
+MIMAX200: MIMAX200 gửi 191 / Bấm *098*2003#
+MP14: MP14 gửi 191
+MP15K: MP15K gửi 170
+MP30X: Bấm Đăng ký hoặc soạn MP30X gửi 109
+MP50S: bấm Đăng ký, soạn MP50S gửi 109, bấm gọi *098*24#
+MP5X: Đăng ký (từ 0h 23h): Bấm Đăng ký hoặc soạn MP5X gửi 109
+MP70S: bấm Đăng ký, soạn MP70S gửi 109, bấm gọi *098*25#
+MP70X: Bấm Đăng ký / Soạn MP70X gửi 109 / *098*189#
+MP90: MP90 gửi 109
+MP90S: MP90S gửi 109, bấm gọi *098*26#
+NBIOT: NBIOT gửi 191
+S20: S20 gửi 170
+s30: Bấm Đăng ký hoặc soạn tin S30 gửi 170 hoặc bấm *098*303#
+s40: S40 gửi 170
+SMGH12: SMGH12 gửi 191
+SMGH24: SMGH24 gửi 191
+SMGH6: SMGH6 gửi 191
+SMS100: SMS100 gửi 170
+SMS1K: SMS1K gửi 170
+ST10K: ST10K gửi 191 hoặc bấm gọi *098*16#
+ST120: ST120 gửi 191, bấm gọi *098*28#
+ST120K: ST120K gửi 191.
+ST150K: ST150K gửi 191
+ST15K: Bấm Đăng ký hoặc soạn ST15K gửi 191, bấm gọi *098*3# hoặc *098*1533#
+ST30K: Bấm Đăng ký / Soạn ST30K gửi 191 / Bấm gọi *098*7#hoặc *098*3077#
+ST5K: Bấm Đăng ký / Soạn ST5K gửi 191 / Bấm gọi *098*14#
+ST70: Bấm Đăng ký / Bấm *098*70000#
+ST70K: Bấm Đăng ký, soạn ST70K gửi 191, bấm gọi *098*174#
+ST90: Bấm Đăng ký / Soạn ST90K gửi 191 / Bấm gọi *098*6789#
+T1: T1 gửi 191 hoặc bấm gọi *098*1007#
+T30: T30 gửi 191 hoặc bấm gọi *098*1009#
+T7: T7 gửi 191 hoặc bấm gọi *098*1008#
+TD1: TD1 MO gửi 9123
+TDT: DKTDT gửi 109
+THAI1: bấm Đăng ký, soạn THAI1 gửi 191, hoặc bấm gọi *098#
+THAI10: bấm Đăng ký, soạn THAI10 gửi 191, hoặc bấm gọi *098#
+THAI5: bấm Đăng ký, soạn THAI5 gửi 191, hoặc bấm gọi *098#
+TQ10: bấm Đăng ký, soạn TQ10 gửi 191, hoặc bấm gọi *098#
+TQ5: TQ5 gửi 191
+TV7K: TV7K gửi 191 hoặc bấm gọi *098*386#
+U125: U125 gửi 191
+UMAX300: Bấm Đăng ký / Soạn tin UMAX300 gửi 191 / Bấm *098*361#
+V120: V120 gửi 191
+V30X: bấm Đăng ký, soạn V30X gửi 191, hoặc bấm gọi *098*223#
+V50K: Bấm Đăng ký, soạn V50K gửi 191, bấm gọi *098*5070#
+V90: V90 gửi 191
+VT100: VT100 gửi 109
+VT100G: VT100G gửi 109
+VT100N: VT100N gửi 109
+VT2: VT2 gửi 109
+VT3K: VT3K gửi 109
+VT3S: VT3S gửi 109
